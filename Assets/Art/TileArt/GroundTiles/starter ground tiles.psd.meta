@@ -17,6 +17,15 @@ TextureImporter:
   - first:
       213: 6486653025020186400
     second: starter ground tiles_trees
+  - first:
+      213: -958508500053903112
+    second: starter ground tiles_2
+  - first:
+      213: -5561626268556251174
+    second: starter ground tiles_3
+  - first:
+      213: 6820375609033148496
+    second: starter ground tiles_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
